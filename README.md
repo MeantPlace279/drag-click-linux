@@ -44,7 +44,7 @@ If you are using Nano:
 sudo reboot
 ```
 
-You should be able to drag click now.
+**You should be able to drag click now.**
 
 ## How It Works
 
