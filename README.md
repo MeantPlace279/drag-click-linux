@@ -78,13 +78,6 @@ Remove the section you added, save the file, and reboot.
 
 If this workaround works for you, consider sharing your Linux distribution and mouse model by opening a pull request to help other users.
 
-### Confirmed Working
-
-- **Logitech G35**: Ubuntu, Debian, Fedora, Linux Mint
-
-> [!TIP]
-> When contributing, include your mouse model, Linux distribution, and any relevant details about your setup.
-
 ## References
 
 - [libinput Device Quirks Documentation](https://wayland.freedesktop.org/libinput/doc/latest/device-quirks.html)
