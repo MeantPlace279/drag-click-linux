@@ -1,7 +1,7 @@
 
 # Drag Clicking on Linux
 
-A simple community discovered workaround to improve drag click registration on Linux using a custom `libinput` quirk.
+A simple community discovered workaround to enable drag click registration on Linux using a custom `libinput` quirk.
 
 ## Requirements
 
